@@ -1,0 +1,1 @@
+# 🔍 Filtro por área de conocimiento
